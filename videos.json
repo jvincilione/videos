@@ -62,6 +62,24 @@
       "endDate": "1577804400000",
       "genre": "drama",
       "thumbnail": "http://asianwiki.com/images/d/d5/Yutori_Desu_ga_Nani_ka-p1.jpg"
+    },
+    {
+      "brightcoveId": "6027011891001",
+      "title": "ポンダンポンダン 王様の恋 第1話",
+      "preview": false,
+      "startDate": "1554044400000",
+      "endDate": "1577804400000",
+      "genre": "drama",
+      "thumbnail": "https://prod.akimg.tv.rakuten.co.jp/content/99/56/209965/main.jpg"
+    },
+    {
+      "brightcoveId": "6027018183001",
+      "title": "三つ色のファンタジー 恋する指輪 第1話",
+      "preview": false,
+      "startDate": "1554044400000",
+      "endDate": "1577804400000",
+      "genre": "drama",
+      "thumbnail": "https://prod.akimg.tv.rakuten.co.jp/content/83/34/263843/main.jpg"
     }
   ]
 }
