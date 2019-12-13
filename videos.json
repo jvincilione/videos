@@ -1,0 +1,31 @@
+{
+  "videos": [
+    {
+      "videoUrl": "//vjs.zencdn.net/v/oceans.mp4",
+      "title": "Oceans 1",
+      "preview": false,
+      "startDate": "1554044400000",
+      "endDate": "1577804400000",
+      "genre": "drama",
+      "thumbnail": "//vjs.zencdn.net/v/oceans.png"
+    },
+    {
+      "videoUrl": "//vjs.zencdn.net/v/oceans.mp4",
+      "title": "Oceans 2",
+      "preview": false,
+      "startDate": "1554044400000",
+      "endDate": "1577804400000",
+      "genre": "drama",
+      "thumbnail": "//vjs.zencdn.net/v/oceans.png"
+    },
+    {
+      "videoUrl": "//vjs.zencdn.net/v/oceans.mp4",
+      "title": "Oceans 3",
+      "preview": false,
+      "startDate": "1554044400000",
+      "endDate": "1577804400000",
+      "genre": "drama",
+      "thumbnail": "//vjs.zencdn.net/v/oceans.png"
+    }
+  ]
+}
